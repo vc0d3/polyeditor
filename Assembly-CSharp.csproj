@@ -51,6 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Geometry\CompositeShape.cs" />
+     <Compile Include="Assets\Geometry\CompositeShapeData.cs" />
+     <Compile Include="Assets\Geometry\Maths2D.cs" />
+     <Compile Include="Assets\Geometry\Polygon.cs" />
+     <Compile Include="Assets\Geometry\Shape.cs" />
+     <Compile Include="Assets\Geometry\Triangulator.cs" />
      <Compile Include="Assets\ShapeCreator.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
